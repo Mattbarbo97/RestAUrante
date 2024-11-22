@@ -1,3 +1,10 @@
+   / \__
+  (    @\___
+  /         O
+ /   (_____/
+/_____/   U
+
+
 Descrição do Projeto: Sistema de Gestão Comercial para Restaurantes
 
 Este projeto tem como objetivo desenvolver um sistema robusto e integrado para gerenciar todas as operações de um restaurante, abrangendo controle de estoque, gestão financeira, organização de comandas e mesas, registro de clientes e análise de dados operacionais. Com uma arquitetura moderna baseada em React, Firebase e Netlify, o sistema será responsivo, escalável e de fácil manutenção.
